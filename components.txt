@@ -1,0 +1,7 @@
+Arduino Uno / ESP32
+Ultrasonic Sensor HC-SR04
+LED (Red, Green)
+Resistors
+Breadboard
+Jumper wires
+USB cable
